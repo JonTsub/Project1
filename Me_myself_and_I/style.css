@@ -1,18 +1,28 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Cinzel Decorative', serif;
     margin: 20px;
     background-color: #b68316;
 }
 h1 {
-    color: #e08c0d;
+    color: #c1eb09;
+}
+p {
+    font-family: 'IM Fell English SC', serif;
+    color: aqua;
+    line-height: 1.6;
+}
+h2 {
+    color: #c1eb09;
 }
 ul {
+    font-family: 'IM Fell English SC', serif;
     list-style-type: square;
+    color: aqua;
 }
 img {
     margin-top: 20px;
     border: 2px solid #3013d8;
-    border-radius: 10px;
+    border-radius: 30px;
 }
 .hobby-wrapper {
     display: flex;
